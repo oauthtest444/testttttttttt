@@ -313,3 +313,12 @@ Confirmed low-impact read-only cross-project IDOR `VULN-20261031-001` in DataFin
 - agent_outcome: success
 - workflow_status: success
 - note: Agent-created compaction is authoritative; this closeout records how the run ended.
+
+## Workflow closeout
+
+- timestamp: 2026-11-20T14:48:32Z
+- run_id: 44756924658
+- event: schedule
+- agent_outcome: success
+- workflow_status: success
+- note: Agent-created compaction is authoritative; this closeout records how the run ended.
